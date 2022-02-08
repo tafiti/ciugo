@@ -1,6 +1,12 @@
 export const WORDS = [
   'which',
+  'fikir',
+  'keden',
   'there',
+  'kenya',
+  'afriq',
+  'andre',
+  'stevo',
   'their',
   'about',
   'would',
