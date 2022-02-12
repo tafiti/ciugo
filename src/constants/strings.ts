@@ -1,5 +1,4 @@
-export const GAME_TITLE = 'Majina'
-
+export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 export const WIN_MESSAGES = ['Gobez!', 'Nĩ hau', 'Hongera']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const ABOUT_GAME_MESSAGE = 'About Majina Game'
