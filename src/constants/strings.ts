@@ -5,8 +5,8 @@ export const NOT_ENOUGH_LETTERS_MESSAGE = 'Ndemwa tijiganu'
 export const WORD_NOT_FOUND_MESSAGE = 'Kiugo kĩu nĩ ũgeni'
 export const HARD_MODE_ALERT_MESSAGE = 'Nĩkũũma na ngũri (Hard Mode)'
 export const HARD_MODE_DESCRIPTION =
-  'Any revealed hints must be used in subsequent guesses'
-export const HIGH_CONTRAST_MODE_DESCRIPTION = 'Nĩguo woone ndemwa weega'
+  'Wonio mbũgũ no mũhaka ũmĩhũthĩre'
+export const HIGH_CONTRAST_MODE_DESCRIPTION = 'Akia nĩguo woone ndemwa weega'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
   `Kiugo kiuma ${solution}`
 export const WRONG_SPOT_MESSAGE = (guess: string, position: number) =>
@@ -17,7 +17,7 @@ export const ENTER_TEXT = 'Enter'
 export const DELETE_TEXT = 'Delete'
 export const STATISTICS_TITLE = 'Gũtarana'
 export const GUESS_DISTRIBUTION_TEXT = 'Guess Distribution'
-export const NEW_WORD_TEXT = 'Kiugo kĩerũ thutha wa'
+export const NEW_WORD_TEXT = 'Thaaka thutha wa'
 export const SHARE_TEXT = 'Share'
 export const TOTAL_TRIES_TEXT = 'Mageria'
 export const SUCCESS_RATE_TEXT = 'Gũtoorania'
