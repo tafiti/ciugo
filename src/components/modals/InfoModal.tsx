@@ -57,7 +57,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        Ramata gĩũthi gĩkĩ -{' '}
+        Tungata gĩũthi gĩkĩ -{' '}
         <a
           href="https://github.com/tafiti/ciugo"
           className="underline font-bold"
