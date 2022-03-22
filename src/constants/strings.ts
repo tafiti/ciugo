@@ -2,7 +2,7 @@ export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 export const WIN_MESSAGES = ['Wakĩona makano!', 'Nĩ hau', 'Nĩ wanyiita']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Ndemwa tijiganu'
-export const WORD_NOT_FOUND_MESSAGE = 'Kiugo kĩu nĩ ũgeni'
+export const WORD_NOT_FOUND_MESSAGE = 'Kiugo kĩu nĩ kĩgeni'
 export const HARD_MODE_ALERT_MESSAGE = 'Nĩkũũma na ngũri (Hard Mode)'
 export const HARD_MODE_DESCRIPTION =
   'Wonio mbũgũ no mũhaka ũmĩhũthĩre'
