@@ -1330,7 +1330,6 @@ export const VALID_GUESSES = [
   'kiriu',
   'ũkũyũ',
   'baina',
-  'ng'ea',
   'kĩrya',
   'rutha',
   'mbara',
