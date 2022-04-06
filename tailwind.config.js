@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       height: {
-        'dynamic': 'var(--real100vh)',
+        dynamic: 'var(--real100vh)',
       },
     },
   },
